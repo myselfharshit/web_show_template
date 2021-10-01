@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+}
+.heading{
+    color:black;
+    font-size: 6rem;
+    font-family: 'Ephesis', cursive;
+    margin left: 25rem;
+}
+#image1{
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fb4671b518cf9f81e4343c5921a6210141fd9f8fa%2F0_92_4284_2570%2Fmaster%2F4284.jpg%3Fwidth%3D1200%26height%3D1200%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26s%3D75205a6a967abc32d73fc80b7b23b52a&imgrefurl=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2021%2Fmay%2F02%2Fpeaky-blinders-investigated-allegedly-breaking-covid-protocols&tbnid=9x_US4hthdMv6M&vet=12ahUKEwjervPA1KjzAhVbjEsFHd0mBOQQMygBegUIARDLAQ..i&docid=yr1DUKLtuhmQGM&w=1200&h=1200&q=peaky%20blinders&ved=2ahUKEwjervPA1KjzAhVbjEsFHd0mBOQQMygBegUIARDLAQ');
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#image1:hover{
+    cursor: pointer;
+    transform: 1.3px;
+}
+#image2{
+    background-image: url('');
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
